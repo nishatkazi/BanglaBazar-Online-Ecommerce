@@ -1,0 +1,186 @@
+/*
+Theme Name: BanglaBazar Online Ecommerce
+Theme URI: http://google.com
+Author: Kazi Nishat
+Author URI: https://www.facebook.com/Kazi.Nishat
+Description: Ecommarce Site Theme
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: black, brown, orange, tan, white, yellow, light, one-column, two-columns, right-sidebar, flexible-width, custom-header, custom-menu, editor-style, featured-images, microformats, post-formats, rtl-language-support, sticky-post, translation-ready
+Text Domain: kazinishat
+
+This theme is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+*{
+margin:0;
+padding:0;
+}
+body{
+background-image:url('images/background.jpg');
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-position: center; 
+}
+
+.main {
+width:100%;
+}
+#alignleft {
+text-align:left;
+}
+
+#alignright{
+text-align:right;
+}
+
+#aligncenter {
+text-align:center;
+}
+#graylink {
+	font-size:13px;
+	color:#47475D;
+}
+#whiteborder{
+	border:1px solid #fff;
+}
+.login button{
+margin:20px 20px 0px 0px;
+}
+.box-main{
+width:100%;
+min-height:420px;
+box-shadow: 0px 0px 15px #000;
+padding:10px;
+background-color:#fff;
+margin:30px 0px;
+}
+.logo {
+text-align:center;
+}
+
+.logo img {
+width:30%;
+}
+.box-content {
+text-align:center;
+}
+.box-content h1{
+color:#424242;
+text-align:center;
+margin:20px 50px;
+font-weight:normal;
+}
+.box-content input{
+width:50%;
+text-align:center;
+margin:0 auto;
+border:1px solid #6D778B;
+}
+.box-content button{
+width:50%;
+text-align:center;
+margin:5px;
+}
+#free{
+font-size:20px;
+color:#007BFF;
+}
+.widgets {
+	background-color:#fff;
+}
+.widget {
+	text-align:center;
+}
+.widget p {
+	margin:10px 20px;
+	text-align:center;
+	font-size:20px;
+}
+.half-widgets {
+	background-color:#fff;
+	padding:30px 0px;
+	
+}
+.half-widget h1{
+	margin:30px;
+}
+
+.half-widget p{
+	font-size:20px;
+	margin:30px;
+}
+.half-widget img{
+	width:100%;
+}
+
+.half-widget button{
+	font-size:20px;
+	margin:0px 30px;
+}
+.partner-logos img {
+	width:100%;
+}
+.delivery{
+		background-color:#fff;
+}
+.deliveries{
+	text-align:center;
+}
+.deliveries p{
+	text-transform:uppercase;
+	font-weight:bold;
+	letter-spacing: 2px;
+	margin:20px 0px;
+}
+.deliveries img {
+	width:100%;
+	margin:10px 0px;
+}
+
+.deliveries h1 {
+	margin:20px 0px;
+	font-size:35px;
+}
+
+.deliveries button {
+	margin:20px 0px;
+}
+
+.footer {
+	background-color:#007BFF;
+}
+.footer-top{
+	padding:30px 50px;
+	border-bottom:1px solid #234dac;
+}
+.footer-logo img{
+	width:30%;
+	background-color:#fff;
+	border-radius:5px;
+}
+.footer-middle p {
+	color:#fff;
+	float:left;
+	margin:5px;'
+}
+.footer-middle input{
+	float:left;
+}
+.footer-bottom{
+	padding:30px 50px;
+	border-bottom:1px solid #234dac;
+}
+
+.footer-menu ul li{
+	list-style:none;
+}
+.footer-menu ul li a{
+	color:#fff;
+}
+
+.footer-mark p{
+	text-align:center;
+	color:#fff;
+}
